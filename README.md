@@ -1,3 +1,51 @@
+# Project Title
+Quantum States and Systems: A Study on Two-Particle Systems
+
+## Project Description
+Este proyecto explora los conceptos de mecánica cuántica aplicados a sistemas de partículas, centrándose en la representación de estados cuánticos y sus combinaciones lineales mediante productos tensoriales. Se desarrollan ejemplos específicos que ilustran la estructura de los estados cuánticos y su relación con la probabilidad en la computación cuántica.
+
+## Getting Started
+Estas instrucciones te ayudarán a obtener una copia del proyecto en funcionamiento en tu máquina local para fines de desarrollo y pruebas. Consulta la sección de despliegue para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
+
+### Prerequisites
+Para instalar este software, necesitas tener instaladas las siguientes bibliotecas:
+
+- NumPy: para cálculos matemáticos y manipulaciones de matrices.
+- Matplotlib: opcional, para visualizaciones gráficas.
+
+Instalación de las bibliotecas necesarias:
+
+```bash
+pip install numpy matplotlib
+## Deployment
+Para implementar este proyecto en un sistema en vivo, sigue los siguientes pasos:
+
+1. **Configuración del Entorno**: Asegúrate de que el entorno de producción tenga todas las dependencias necesarias instaladas, como NumPy y Matplotlib.
+
+2. **Configuraciones de Seguridad**: Revisa las configuraciones de seguridad, como la restricción de acceso a ciertas funcionalidades y la validación de entradas de usuarios para evitar inyecciones de código o datos maliciosos.
+
+3. **Optimización del Rendimiento**: Utiliza técnicas de optimización, como la minimización de cálculos innecesarios y la carga diferida de datos, para mejorar el rendimiento del sistema.
+
+4. **Monitoreo y Registro**: Implementa soluciones de monitoreo para seguir el rendimiento del sistema y registrar eventos importantes para facilitar la depuración.
+
+5. **Pruebas Previas al Despliegue**: Realiza pruebas exhaustivas en un entorno de preproducción antes de llevar el proyecto a producción.
+
+## Built With
+- **NumPy** - La biblioteca utilizada para cálculos numéricos.
+- **Matplotlib** - Usada para visualizaciones gráficas.
+
+## Contributing
+Por favor, lee el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para conocer nuestros códigos de conducta y el proceso para enviar solicitudes de extracción.
+
+## Versioning
+Usamos SemVer para el versionado. Para las versiones disponibles, consulta las etiquetas en este repositorio.
+
+## Authors
+Jacobo Diaz Alvarado - Trabajo inicial
+
+
+
+
 ### Ejemplo 4.5.2
  
 Trabajemos en el sistema de dos partículas más simple y no trivial: cada partícula solo puede estar en dos puntos. Consideremos el estado
