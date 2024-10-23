@@ -52,4 +52,4 @@ C_1x = 1
 $$
 Asi que el sistema si es separable.
 
-tiene menú contextual
+
