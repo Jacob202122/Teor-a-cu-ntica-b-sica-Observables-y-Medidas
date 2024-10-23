@@ -15,21 +15,6 @@ Para instalar este software, necesitas tener instaladas las siguientes bibliotec
 
 Instalación de las bibliotecas necesarias:
 
-```bash
-pip install numpy matplotlib
-## Deployment
-Para implementar este proyecto en un sistema en vivo, sigue los siguientes pasos:
-
-1. **Configuración del Entorno**: Asegúrate de que el entorno de producción tenga todas las dependencias necesarias instaladas, como NumPy y Matplotlib.
-
-2. **Configuraciones de Seguridad**: Revisa las configuraciones de seguridad, como la restricción de acceso a ciertas funcionalidades y la validación de entradas de usuarios para evitar inyecciones de código o datos maliciosos.
-
-3. **Optimización del Rendimiento**: Utiliza técnicas de optimización, como la minimización de cálculos innecesarios y la carga diferida de datos, para mejorar el rendimiento del sistema.
-
-4. **Monitoreo y Registro**: Implementa soluciones de monitoreo para seguir el rendimiento del sistema y registrar eventos importantes para facilitar la depuración.
-
-5. **Pruebas Previas al Despliegue**: Realiza pruebas exhaustivas en un entorno de preproducción antes de llevar el proyecto a producción.
-
 ## Built With
 - **NumPy** - La biblioteca utilizada para cálculos numéricos.
 - **Matplotlib** - Usada para visualizaciones gráficas.
