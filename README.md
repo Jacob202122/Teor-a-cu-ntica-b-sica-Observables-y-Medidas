@@ -50,6 +50,6 @@ C_1y = 0,
 C_0x = 1,
 C_1x = 1
 $$
-Asi que el sistema si es separable.
+
 
 
